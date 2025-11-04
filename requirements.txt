@@ -1,41 +1,41 @@
 # AI and LLM Libraries
-groq
-google-generativeai
-langchain
-langchain-groq
-langchain-google-genai
-langgraph
-langchain-community
+groq==0.3.0           # latest PyPI release listed as 0.3.0 for groq. :contentReference[oaicite:0]{index=0}
+google-generativeai   # (version not found / treat as whatever latest in PyPI)
+langchain==1.0.3      # latest from PyPI. :contentReference[oaicite:1]{index=1}
+langchain-groq        # (version not found / treat as latest)
+langchain-google-genai # (version not found / treat as latest)
+langgraph==1.0.2      # latest PyPI release. :contentReference[oaicite:2]{index=2}
+langchain-community==0.0.x  # still at patch version; latest documented. :contentReference[oaicite:3]{index=3}
 
 # Vector Database and Embeddings
-chromadb
-sentence-transformers
+chromadb==1.3.2       # latest PyPI release. :contentReference[oaicite:4]{index=4}
+sentence-transformers==5.1.2  # latest PyPI release. :contentReference[oaicite:5]{index=5}
 
 # Document Processing
-pypdf
-python-docx
-unstructured
-python-magic-bin  # For Windows
-markdown
+pypdf                # (version not found in this check; use latest)
+python-docx          # (version not found in this check; use latest)
+unstructured         # (version not found; use latest)
+python-magic-bin     # (Windows only; version not found here)
+markdown             # (use latest)
 
 # Agent Framework
-crewai
+crewai               # (version not found; use latest)
 
 # DSPy for Feedback Optimization
-dspy-ai
+dspy-ai              # (version not found; use latest)
 
 # Web Framework
-streamlit
-gradio
+streamlit            # (use latest)
+gradio               # (use latest)
 
 # Data Processing
-pandas
-numpy
+pandas               # (use latest)
+numpy                # (use latest)
 
 # Utilities
-python-dotenv
-pydantic
-requests
+python-dotenv        # (use latest)
+pydantic             # (use latest)
+requests             # (use latest)
 
 # Logging and Monitoring
-loguru
+loguru               # (use latest)
