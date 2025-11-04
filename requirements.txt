@@ -1,0 +1,41 @@
+# AI and LLM Libraries
+groq
+google-generativeai
+langchain
+langchain-groq
+langchain-google-genai
+langgraph
+langchain-community
+
+# Vector Database and Embeddings
+chromadb
+sentence-transformers
+
+# Document Processing
+pypdf
+python-docx
+unstructured
+python-magic-bin  # For Windows
+markdown
+
+# Agent Framework
+crewai
+
+# DSPy for Feedback Optimization
+dspy-ai
+
+# Web Framework
+streamlit
+gradio
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+python-dotenv
+pydantic
+requests
+
+# Logging and Monitoring
+loguru
