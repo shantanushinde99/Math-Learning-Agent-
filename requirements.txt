@@ -39,3 +39,4 @@ requests
 
 # Logging and Monitoring
 loguru
+python-magic
