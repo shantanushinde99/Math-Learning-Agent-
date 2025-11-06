@@ -15,7 +15,7 @@ sentence-transformers
 pypdf
 python-docx
 unstructured
-python-magic-bin  # For Windows
+#python-magic       # Use this instead of python-magic-bin
 markdown
 
 # Agent Framework
@@ -39,4 +39,3 @@ requests
 
 # Logging and Monitoring
 loguru
-python-magic
